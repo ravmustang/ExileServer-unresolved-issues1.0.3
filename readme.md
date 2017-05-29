@@ -1,4 +1,4 @@
-![ArmA 1.70](https://img.shields.io/badge/Arma-1.70-blue.svg)
+![ArmA 1.70](https://img.shields.io/badge/Arma-1.70-blue.svg) ![Exile 1.0.3b "Lemon"](https://img.shields.io/badge/Exile-1.0.3b%20Lemon-C72651.svg)
 
 # Exile Loading Screen Fixes + More
 
