@@ -9,3 +9,8 @@ These files modify the original Exile functions as of May 29, 2017, version 1.0.
 
 #### ExileServer_object_construction_network_swapConstructionRequest = "overrides\ExileServer_object_construction_network_swapConstructionRequest.sqf";
 #### ExileServer_object_player_database_load = "overrides\ExileServer_object_player_database_load.sqf";
+
+## Steam Workshop Addon
+## Exile Loading Screen Config Fix 
+Download here:
+http://steamcommunity.com/sharedfiles/filedetails/?id=935787121
